@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "furkanroot",
+      "password": "123",
+      "postId" :  "7"
+    },
+    {
+      "id": "2",
+      "username": "azatadanir",
+      "password": "1245"
+    }
+  ]
+}
